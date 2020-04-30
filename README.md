@@ -1,5 +1,3 @@
-[![docker pulls](https://img.shields.io/docker/pulls/jupyter/all-spark-notebook.svg)](https://hub.docker.com/r/jupyter/all-spark-notebook/) [![docker stars](https://img.shields.io/docker/stars/jupyter/all-spark-notebook.svg)](https://hub.docker.com/r/jupyter/all-spark-notebook/) [![image metadata](https://images.microbadger.com/badges/image/jupyter/all-spark-notebook.svg)](https://microbadger.com/images/jupyter/all-spark-notebook "jupyter/all-spark-notebook image metadata")
-
 This repository is for the Jupyter Lab Docker image used in the data analytics EC2 environment.  Automated builds are hosted on [Docker Hub](https://hub.docker.com/repository/docker/kylethomsen/data-analytics-ec2-environment-jupyterlab-docker).
 
 This image is heavily based on the jupyter/all-spark-notebook, which is located [on Docker Hub](https://hub.docker.com/r/jupyter/all-spark-notebook) and its source is hosted [on an official Jupyter repository on GitHub](https://github.com/jupyter/docker-stacks/tree/master/all-spark-notebook).  The links from its README.md are included below.
