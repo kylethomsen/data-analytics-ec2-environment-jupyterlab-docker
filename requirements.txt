@@ -1,5 +1,4 @@
 pandas
 jupyterlab-git
-jupyterthemes
 jupyter_contrib_nbextensions
 notebook
